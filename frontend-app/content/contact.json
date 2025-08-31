@@ -1,0 +1,14 @@
+{
+  "id": "contact",
+  "title": "Contact.exe",
+  "icon": "📧",
+  "content": {
+    "email": "juanpabloamorosi@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/juan-pablo-amorosi-8b5894193/",
+    "github": "https://github.com/johnitto9",
+    "availability": "Disponible para proyectos de IA y arquitecturas de sistemas complejos",
+    "timezone": "GMT-3 (Argentina)",
+    "languages": ["Español (Nativo)", "English (Fluent)", "Português (Intermediate)"],
+    "specialties": ["Sistemas de IA", "Arquitectura de Software", "Optimización de Costos", "I+D"]
+  }
+}

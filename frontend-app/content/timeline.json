@@ -1,0 +1,52 @@
+{
+  "id": "timeline",
+  "title": "Timeline.log",
+  "icon": "📅",
+  "content": {
+    "experiences": [
+      {
+        "period": "Ene 2024 - Presente",
+        "position": "Ecosistema de Trading Algorítmico",
+        "company": "I+D Independiente",
+        "description": "Diseño de una plataforma de trading, integrando datos de Coinglass mediante un scraper propietario, eliminando costos de API. Creación de un pipeline ETL a medida ('datasetcreator') para la generación de datasets de alta calidad para el fine-tuning de modelos de IA (R1). Implementación de una arquitectura de IA de dos niveles: un Orquestador (LLM grande) y un Especialista (modelo fine-tuneado) para optimizar costos y precisión.",
+        "technologies": ["Python", "FastAPI", "Web Scraping", "Fine-Tuning", "LLM", "ETL", "PostgreSQL", "Docker"]
+      },
+      {
+        "period": "May 2025 - Jul 2025",
+        "position": "Pivote Estratégico: Sistema Agéntico Legal",
+        "company": "I+D Independiente",
+        "description": "Realización de un post-mortem estratégico que concluyó que la barrera del TradingBot era el capital y la latencia. Re-capitalización de la arquitectura de agentes y RAG para aplicarla al dominio de la IA Jurídica, un sector con barreras tecnológicas más accesibles. Demostración de madurez para reasignar recursos técnicos hacia objetivos de mayor viabilidad.",
+        "technologies": ["RAG", "Vector Databases", "ChromaDB", "Agentes de IA", "Análisis Estratégico", "Python"]
+      },
+      {
+        "period": "Continuo",
+        "position": "Laboratorio de IA Local en RunPod",
+        "company": "Infraestructura de Experimentación",
+        "description": "Despliegue de un stack de IA en RunPod (NVIDIA 3090), dockerizado, como motor de I+D personal. Orquestación de múltiples modelos en conjunto: un LLM destilado (R1), un modelo de embeddings (Qwen3) y un reranker (Qwen3). Uso de un chatbot local como banco de pruebas para validar arquitecturas y modelos antes del despliegue.",
+        "technologies": ["RunPod", "NVIDIA 3090", "Docker", "LLM Destilado", "Embeddings", "Qwen3", "Model Orchestration"]
+      },
+      {
+        "period": "Ago 2025",
+        "position": "Despliegue en Cloud: 'RecApp' en Azure",
+        "company": "Prueba de Concepto Enterprise",
+        "description": "Desarrollo de un consultor de pólizas inteligente utilizando GPT-5-Mini en Azure. Diseño de un 'Router de Intenciones' para orquestar agentes de IA especializados, aplicando el rol de 'Orquestador de IA'.",
+        "technologies": ["Microsoft Azure", "GPT-5-Mini", "Router de Intenciones", "Orquestación de Agentes", "Enterprise AI"]
+      },
+      {
+        "period": "Sep 2023 - Feb 2024",
+        "position": "Resiliencia en Producción: 'Delibot'",
+        "company": "Delify (Emprendimiento Propio)",
+        "description": "Implementación de un manager de operaciones con IA en producción, integrando WhatsApp, scraping en tiempo real y persistencia en Docker (PostgreSQL/ChromaDB). Resolución de errores en cascada mediante análisis forense, culminando en una 'Arquitectura Tool-First' para eliminar alucinaciones del modelo.",
+        "technologies": ["WhatsApp API", "Real-time Scraping", "PostgreSQL", "ChromaDB", "Docker", "Arquitectura Tool-First", "Production AI"]
+      }
+    ],
+    "education": [
+      {
+        "period": "2019 - 2023",
+        "degree": "Ingeniería en Sistemas",
+        "institution": "Universidad Tecnológica Nacional",
+        "description": "Enfoque en arquitectura de sistemas, algoritmos y desarrollo de software. Especialización en inteligencia artificial y machine learning."
+      }
+    ]
+  }
+}

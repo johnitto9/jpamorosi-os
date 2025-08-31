@@ -1,0 +1,5 @@
+export { Desktop } from "./components/Desktop"
+export { Window } from "./components/Window"
+export { Dock } from "./components/Dock"
+export { useDesktopStore } from "./store"
+export type { WindowApp, DesktopState } from "./types"

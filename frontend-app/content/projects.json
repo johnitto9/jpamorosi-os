@@ -1,0 +1,87 @@
+{
+  "id": "projects",
+  "title": "Projects.lnk",
+  "icon": "🚀",
+  "content": {
+    "featured": [
+      {
+        "name": "Delibot: Resiliencia en Producción",
+        "imageUrl": "/imgs/delify-wsp-examplechat.png",
+        "theme": "btn-back-green",
+        "description": "Sistema full-stack que gestiona un e-commerce vía WhatsApp. Su evolución forzó la creación de una 'Arquitectura Tool-First' para garantizar respuestas basadas en hechos. Mi caso de estudio sobre resiliencia y debugging complejo.",
+        "technologies": ["WhatsApp API", "Real-time Scraping", "PostgreSQL", "ChromaDB", "Docker", "Arquitectura Tool-First", "Production AI"],
+        "status": "Production",
+        "github": "https://github.com/johnitto9",
+        "demo": "https://github.com/johnitto9"
+      },
+      {
+        "name": "Code Saver: Extractor de ADN de Proyectos",
+        "imageUrl": "/imgs/code-extractor1.png",
+        "theme": "btn-back-orange",
+        "description": "Herramienta de meta-eficiencia con GUI que extrae y consolida la base de código de un proyecto, acelerando drásticamente el ciclo de retroalimentación con IA al crear una 'radiografía textual' instantánea.",
+        "technologies": ["Python", "GUI", "Code Analysis", "AI Integration", "Meta-Efficiency"],
+        "status": "Completed",
+        "github": "https://github.com/johnitto9",
+        "demo": "https://github.com/johnitto9"
+      },
+      {
+        "name": "Ecosistema de Trading & Data",
+        "imageUrl": null,
+        "theme": "btn-back-black",
+        "description": "Saga de I+D que incluye un scraper propietario y una fábrica de datasets para fine-tuning. Su arquitectura 'Orquestador-Especialista' es mi caso de estudio central en diseño de sistemas de inteligencia.",
+        "technologies": ["Python", "FastAPI", "Web Scraping", "Fine-Tuning", "LLM", "ETL", "PostgreSQL", "Docker"],
+        "status": "In Development",
+        "github": "https://github.com/johnitto9",
+        "demo": "https://github.com/johnitto9"
+      },
+      {
+        "name": "Datasetcreator: Fábrica de Datos para IA",
+        "imageUrl": null,
+        "theme": "btn-back-black",
+        "description": "Un pipeline ETL a medida que extrae datos brutos de múltiples temporalidades y los pre-procesa con una IA, generando JSON de alta calidad para fine-tuning de modelos especializados.",
+        "technologies": ["ETL", "Data Processing", "AI Preprocessing", "JSON Generation", "Model Training"],
+        "status": "Completed",
+        "github": "https://github.com/johnitto9",
+        "demo": "https://github.com/johnitto9"
+      },
+      {
+        "name": "Sistema Agéntico Legal",
+        "imageUrl": null,
+        "theme": "btn-back-yellow",
+        "description": "Nacido de un pivote estratégico, este proyecto capitaliza una arquitectura RAG para el análisis de conocimiento semántico profundo. Demuestra agilidad para reorientar tecnología compleja hacia problemas de mayor impacto.",
+        "technologies": ["RAG", "Vector Databases", "ChromaDB", "Agentes de IA", "Análisis Estratégico", "Python"],
+        "status": "In Development",
+        "github": "https://github.com/johnitto9",
+        "demo": "https://github.com/johnitto9"
+      },
+      {
+        "name": "Laboratorio de IA en RunPod",
+        "imageUrl": null,
+        "theme": "btn-back-gray",
+        "description": "Mi motor de I+D: un stack dockerizado en una NVIDIA 3090 que orquesta un LLM destilado, embeddings y un reranker. Aquí valido arquitecturas y modelos antes de llevarlos a producción.",
+        "technologies": ["RunPod", "NVIDIA 3090", "Docker", "LLM Destilado", "Embeddings", "Qwen3", "Model Orchestration"],
+        "status": "Production",
+        "github": "https://github.com/johnitto9",
+        "demo": "https://github.com/johnitto9"
+      },
+      {
+        "name": "RecApp: Orquestador de IA en Azure",
+        "imageUrl": null,
+        "theme": "btn-back-blue",
+        "description": "Prototipo de nivel enterprise desplegado en Azure con GPT-5-Mini. Su 'Router de Intenciones' demuestra la ejecución del rol de 'Orquestador de IA' en una plataforma cloud líder.",
+        "technologies": ["Microsoft Azure", "GPT-5-Mini", "Router de Intenciones", "Orquestación de Agentes", "Enterprise AI"],
+        "status": "Production",
+        "github": "https://github.com/johnitto9",
+        "demo": "https://github.com/johnitto9"
+      }
+    ],
+    "categories": [
+      "Sistemas de IA",
+      "Arquitectura de Software",
+      "Trading & Fintech",
+      "Herramientas de Desarrollo",
+      "Cloud & Enterprise",
+      "I+D Personal"
+    ]
+  }
+}

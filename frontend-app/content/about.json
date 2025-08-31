@@ -1,0 +1,19 @@
+{
+  "id": "about",
+  "title": "About.txt",
+  "icon": "📄",
+  "content": {
+    "name": "Juan Pablo Amorosi",
+    "title": "Desarrollador y Arquitecto de IA",
+    "image_path": "/imgs/img-profile-jpa.png",
+    "bio": "Soy un desarrollador y arquitecto de IA que opera desde los **principios fundamentales** para construir sistemas de inteligencia de ciclo completo. Mi trayectoria se ha forjado en la arena de la ejecución, donde la eficiencia de recursos y la velocidad de iteración no son métricas, sino una filosofía de trabajo.",
+    "description": [
+      "Soy un desarrollador y arquitecto de IA que opera desde los **principios fundamentales** para construir sistemas de inteligencia de ciclo completo. Mi trayectoria se ha forjado en la arena de la ejecución, donde la eficiencia de recursos y la velocidad de iteración no son métricas, sino una filosofía de trabajo.",
+      "Convierto las restricciones en ventajas estratégicas, ya sea replicando la funcionalidad de APIs de pago mediante **ingeniería inversa y scraping propietario**, o diseñando arquitecturas de IA que usan modelos ligeros y de bajo costo para tareas especializadas.",
+      "Más que un programador, soy un **orquestador de sistemas complejos**. Traduzco visiones de negocio abstractas en arquitecturas de software resilientes y escalables. Este portafolio es la crónica de esa metodología."
+    ],
+    "location": "Argentina",
+    "languages": ["Español (Nativo)", "English (Fluent)", "Português (Intermediate)"],
+    "interests": ["Arquitectura de Sistemas de IA", "Optimización de Recursos", "Ingeniería Inversa", "Fine-Tuning de LLMs", "RAG y Vector Databases", "Orquestación de Agentes"]
+  }
+}
